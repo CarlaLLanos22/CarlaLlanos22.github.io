@@ -9,12 +9,13 @@ body {
 .titulo{
        
     background-color:#dbced7d7 ;
-    height:250px;
-    width:300px;
+    height:260px;
+    width:345px;
     margin-top: 5px;
-    margin-bottom: 0px;
+    margin-bottom: 10px;
     margin-left: 50px;
     margin-right: 5px;
+    padding-left: 10px;
     align-items: center;
     justify-content: center;
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif Arial, Helvetica, sans-serif;
@@ -49,21 +50,18 @@ body {
     -webkit-box-shadow: 0px 0px 30px #fdf9fb;
     box-shadow: 0px 0px 30px #fdf9fb;bottom: 10px;
     float: right;
-    display: flex;
-    /* muestra elementos con la misma separación alrededor de ellos */
-    justify-content: space-around;
-    /* alinea los elementos verticalmente */
     align-items: center
     margin-top: 5px;
-    margin-bottom: 0px;
+    margin-bottom: 10px;
     margin-left: 100px;
-    margin-right: 130px;
+    margin-right: 100px;
+    padding-left: 10px;
     text-align: center;
 }
 .info {
     background-color:#dbced7d7;
     float: right;
-    width: 300px;
+    width: 345px;
     height: 100px;
     margin-top: 80px;
     margin-bottom: 0px;
